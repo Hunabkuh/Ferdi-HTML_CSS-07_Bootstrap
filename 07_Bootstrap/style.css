@@ -1,0 +1,30 @@
+body {
+    background-image: url(/07_Bootstrap/Img/fondo_nav.jpg);
+
+    background-size: cover;
+}
+
+nav {
+    background-image: url(/07_Bootstrap/Img/Fondo.jpg);
+    background-size: cover;
+}
+
+section {
+    margin: 15px;
+}
+
+
+footer {
+    background-image: url(/07_Bootstrap/Img/Fondo.jpg);
+    background-size: cover;
+    padding: 20px;
+    margin: 5px;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+
+img {
+    width: min-content;
+    height: min-content;
+}
